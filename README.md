@@ -7,3 +7,4 @@ Preparar a api para receber requisições
 Mapear o banco de dados
 Conectar a api com o banco de dados usando o DbContext
 aprendi como se usa o AutoMapper 
+Banco de dados MySql
